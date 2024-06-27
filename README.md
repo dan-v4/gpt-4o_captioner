@@ -2,7 +2,7 @@
 Electron + ReactJS app utilizing OpenAI GPT-4o model for image captioning
 
 ## Running The App
-1. First create a `.env` file. In this file, include your OPEN_API_KEY, PROJECT_ID, and ORGANIZATION_ID.
+1. First create a `.env` file. In this file, include your OPEN_API_KEY, PROJECT_ID, and ORGANIZATION_ID.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For example:  
 OPEN_API_KEY=YOUR_API_KEY  
 PROJECT_ID=YOUR_PROJECT_ID_KEY  
