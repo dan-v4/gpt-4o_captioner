@@ -9,4 +9,4 @@ In your `.env` file located at the same level as `main.js`:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ORGANIZATION_ID=YOUR_ORG_ID  
 2. Start the Electron app by running `npm start` in a terminal.
 3. In the app, upload the images and click "Analyze".
-4. After all the images have been captioned, a "Save Captions" button will appear. When clicked, it will save all the captions under the `captions/` folder. Note that the text files will have the same name as the image name. 
+4. After all the images have been captioned, a "Save Captions" button will appear. When clicked, it will save all the captions inside the `captions/` folder. Note that the text files will have the same name as the image name. 
